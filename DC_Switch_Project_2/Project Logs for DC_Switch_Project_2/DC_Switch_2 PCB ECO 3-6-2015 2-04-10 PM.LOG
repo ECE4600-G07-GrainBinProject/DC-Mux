@@ -1,0 +1,434 @@
+Added Component: Designator=DEMUX_1_1(J016D)
+Added Component: Designator=DEMUX_1_2(J016D)
+Added Component: Designator=DEMUX_2_1(J016D)
+Added Component: Designator=DEMUX_2_2(J016D)
+Added Component: Designator=DEMUX_3_1(J016D)
+Added Component: Designator=DEMUX_3_2(J016D)
+Added Component: Designator=Main Connector(HDR2X15_CEN)
+Added Component: Designator=NOR_1_1(N014)
+Added Component: Designator=NOR_1_2(N014)
+Added Component: Designator=NOR_2_1(N014)
+Added Component: Designator=NOR_2_2(N014)
+Added Component: Designator=NOR_3_1(N014)
+Added Component: Designator=NOR_3_2(N014)
+Added Component: Designator=SP3T_1(HDR1X3)
+Added Component: Designator=SP3T_2(HDR1X3)
+Added Component: Designator=SP8T_Combo_1(HDR2X5_CEN)
+Added Component: Designator=SP8T_Combo_2(HDR2X5_CEN)
+Added Component: Designator=SP8T_Combo_3(HDR2X5_CEN)
+Added Component: Designator=SPDT_1_1(HDR2X5_CEN)
+Added Component: Designator=SPDT_1_2(HDR2X5_CEN)
+Added Component: Designator=SPDT_2_1(HDR2X5_CEN)
+Added Component: Designator=SPDT_2_2(HDR2X5_CEN)
+Added Component: Designator=SPDT_3_1(HDR2X5_CEN)
+Added Component: Designator=SPDT_3_2(HDR2X5_CEN)
+Added Pin To Net: NetName=GND Pin=NOR_1_1-7
+Added Pin To Net: NetName=GND Pin=NOR_1_2-7
+Added Pin To Net: NetName=GND Pin=NOR_2_1-7
+Added Pin To Net: NetName=GND Pin=NOR_2_2-7
+Added Pin To Net: NetName=GND Pin=NOR_3_1-7
+Added Pin To Net: NetName=GND Pin=NOR_3_2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDEMUX_1_1_1 Pin=DEMUX_1_1-1
+Added Pin To Net: NetName=NetDEMUX_1_1_1 Pin=Main Connector-6
+Added Pin To Net: NetName=NetDEMUX_1_1_1 Pin=SP8T_Combo_1-10
+Added Net: Name=NetDEMUX_1_1_1
+Added Pin To Net: NetName=NetDEMUX_1_1_2 Pin=DEMUX_1_1-2
+Added Pin To Net: NetName=NetDEMUX_1_1_2 Pin=Main Connector-7
+Added Pin To Net: NetName=NetDEMUX_1_1_2 Pin=SP8T_Combo_1-9
+Added Net: Name=NetDEMUX_1_1_2
+Added Pin To Net: NetName=NetDEMUX_1_1_3 Pin=DEMUX_1_1-3
+Added Pin To Net: NetName=NetDEMUX_1_1_3 Pin=Main Connector-8
+Added Pin To Net: NetName=NetDEMUX_1_1_3 Pin=SP8T_Combo_1-7
+Added Net: Name=NetDEMUX_1_1_3
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_1_1-4
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_1_1-5
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_1_1-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_1_2-4
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_1_2-5
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_1_2-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_2_1-4
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_2_1-5
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_2_1-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_2_2-4
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_2_2-5
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_2_2-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_3_1-4
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_3_1-5
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_3_1-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_3_2-4
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_3_2-5
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=DEMUX_3_2-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=Main Connector-16
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SP8T_Combo_1-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SP8T_Combo_1-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SP8T_Combo_2-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SP8T_Combo_2-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SP8T_Combo_3-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SP8T_Combo_3-8
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SPDT_1_1-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SPDT_1_2-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SPDT_2_1-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SPDT_2_2-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SPDT_3_1-1
+Added Pin To Net: NetName=NetDEMUX_1_1_4 Pin=SPDT_3_2-1
+Added Net: Name=NetDEMUX_1_1_4
+Added Pin To Net: NetName=NetDEMUX_1_1_6 Pin=DEMUX_1_1-6
+Added Pin To Net: NetName=NetDEMUX_1_1_6 Pin=Main Connector-12
+Added Net: Name=NetDEMUX_1_1_6
+Added Pin To Net: NetName=NetDEMUX_1_1_7 Pin=DEMUX_1_1-7
+Added Pin To Net: NetName=NetDEMUX_1_1_7 Pin=NOR_1_2-11
+Added Pin To Net: NetName=NetDEMUX_1_1_7 Pin=SPDT_1_2-5
+Added Net: Name=NetDEMUX_1_1_7
+Added Pin To Net: NetName=NetDEMUX_1_1_9 Pin=DEMUX_1_1-9
+Added Pin To Net: NetName=NetDEMUX_1_1_9 Pin=NOR_1_2-8
+Added Pin To Net: NetName=NetDEMUX_1_1_9 Pin=SPDT_1_2-4
+Added Net: Name=NetDEMUX_1_1_9
+Added Pin To Net: NetName=NetDEMUX_1_1_10 Pin=DEMUX_1_1-10
+Added Pin To Net: NetName=NetDEMUX_1_1_10 Pin=NOR_1_2-5
+Added Pin To Net: NetName=NetDEMUX_1_1_10 Pin=SPDT_1_2-3
+Added Net: Name=NetDEMUX_1_1_10
+Added Pin To Net: NetName=NetDEMUX_1_1_11 Pin=DEMUX_1_1-11
+Added Pin To Net: NetName=NetDEMUX_1_1_11 Pin=NOR_1_2-2
+Added Pin To Net: NetName=NetDEMUX_1_1_11 Pin=SPDT_1_2-2
+Added Net: Name=NetDEMUX_1_1_11
+Added Pin To Net: NetName=NetDEMUX_1_1_12 Pin=DEMUX_1_1-12
+Added Pin To Net: NetName=NetDEMUX_1_1_12 Pin=NOR_1_1-11
+Added Pin To Net: NetName=NetDEMUX_1_1_12 Pin=SPDT_1_1-5
+Added Net: Name=NetDEMUX_1_1_12
+Added Pin To Net: NetName=NetDEMUX_1_1_13 Pin=DEMUX_1_1-13
+Added Pin To Net: NetName=NetDEMUX_1_1_13 Pin=NOR_1_1-8
+Added Pin To Net: NetName=NetDEMUX_1_1_13 Pin=SPDT_1_1-4
+Added Net: Name=NetDEMUX_1_1_13
+Added Pin To Net: NetName=NetDEMUX_1_1_14 Pin=DEMUX_1_1-14
+Added Pin To Net: NetName=NetDEMUX_1_1_14 Pin=NOR_1_1-5
+Added Pin To Net: NetName=NetDEMUX_1_1_14 Pin=SPDT_1_1-3
+Added Net: Name=NetDEMUX_1_1_14
+Added Pin To Net: NetName=NetDEMUX_1_1_15 Pin=DEMUX_1_1-15
+Added Pin To Net: NetName=NetDEMUX_1_1_15 Pin=NOR_1_1-2
+Added Pin To Net: NetName=NetDEMUX_1_1_15 Pin=SPDT_1_1-2
+Added Net: Name=NetDEMUX_1_1_15
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=DEMUX_1_1-16
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=DEMUX_1_2-16
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=DEMUX_2_1-16
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=DEMUX_2_2-16
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=DEMUX_3_1-16
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=DEMUX_3_2-16
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=Main Connector-1
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP3T_1-1
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP3T_2-1
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP8T_Combo_1-5
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP8T_Combo_1-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP8T_Combo_2-5
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP8T_Combo_2-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP8T_Combo_3-5
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SP8T_Combo_3-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SPDT_1_1-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SPDT_1_2-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SPDT_2_1-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SPDT_2_2-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SPDT_3_1-6
+Added Pin To Net: NetName=NetDEMUX_1_1_16 Pin=SPDT_3_2-6
+Added Net: Name=NetDEMUX_1_1_16
+Added Pin To Net: NetName=NetDEMUX_1_2_1 Pin=DEMUX_1_2-1
+Added Pin To Net: NetName=NetDEMUX_1_2_1 Pin=Main Connector-11
+Added Pin To Net: NetName=NetDEMUX_1_2_1 Pin=SP8T_Combo_1-2
+Added Net: Name=NetDEMUX_1_2_1
+Added Pin To Net: NetName=NetDEMUX_1_2_2 Pin=DEMUX_1_2-2
+Added Pin To Net: NetName=NetDEMUX_1_2_2 Pin=Main Connector-10
+Added Pin To Net: NetName=NetDEMUX_1_2_2 Pin=SP8T_Combo_1-3
+Added Net: Name=NetDEMUX_1_2_2
+Added Pin To Net: NetName=NetDEMUX_1_2_3 Pin=DEMUX_1_2-3
+Added Pin To Net: NetName=NetDEMUX_1_2_3 Pin=Main Connector-9
+Added Pin To Net: NetName=NetDEMUX_1_2_3 Pin=SP8T_Combo_1-4
+Added Net: Name=NetDEMUX_1_2_3
+Added Pin To Net: NetName=NetDEMUX_1_2_6 Pin=DEMUX_1_2-6
+Added Pin To Net: NetName=NetDEMUX_1_2_6 Pin=Main Connector-13
+Added Net: Name=NetDEMUX_1_2_6
+Added Pin To Net: NetName=NetDEMUX_1_2_7 Pin=DEMUX_1_2-7
+Added Pin To Net: NetName=NetDEMUX_1_2_7 Pin=NOR_1_2-12
+Added Net: Name=NetDEMUX_1_2_7
+Added Pin To Net: NetName=NetDEMUX_1_2_9 Pin=DEMUX_1_2-9
+Added Pin To Net: NetName=NetDEMUX_1_2_9 Pin=NOR_1_2-9
+Added Net: Name=NetDEMUX_1_2_9
+Added Pin To Net: NetName=NetDEMUX_1_2_10 Pin=DEMUX_1_2-10
+Added Pin To Net: NetName=NetDEMUX_1_2_10 Pin=NOR_1_2-6
+Added Net: Name=NetDEMUX_1_2_10
+Added Pin To Net: NetName=NetDEMUX_1_2_11 Pin=DEMUX_1_2-11
+Added Pin To Net: NetName=NetDEMUX_1_2_11 Pin=NOR_1_2-3
+Added Net: Name=NetDEMUX_1_2_11
+Added Pin To Net: NetName=NetDEMUX_1_2_12 Pin=DEMUX_1_2-12
+Added Pin To Net: NetName=NetDEMUX_1_2_12 Pin=NOR_1_1-12
+Added Net: Name=NetDEMUX_1_2_12
+Added Pin To Net: NetName=NetDEMUX_1_2_13 Pin=DEMUX_1_2-13
+Added Pin To Net: NetName=NetDEMUX_1_2_13 Pin=NOR_1_1-9
+Added Net: Name=NetDEMUX_1_2_13
+Added Pin To Net: NetName=NetDEMUX_1_2_14 Pin=DEMUX_1_2-14
+Added Pin To Net: NetName=NetDEMUX_1_2_14 Pin=NOR_1_1-6
+Added Net: Name=NetDEMUX_1_2_14
+Added Pin To Net: NetName=NetDEMUX_1_2_15 Pin=DEMUX_1_2-15
+Added Pin To Net: NetName=NetDEMUX_1_2_15 Pin=NOR_1_1-3
+Added Net: Name=NetDEMUX_1_2_15
+Added Pin To Net: NetName=NetDEMUX_2_1_1 Pin=DEMUX_2_1-1
+Added Pin To Net: NetName=NetDEMUX_2_1_1 Pin=Main Connector-2
+Added Pin To Net: NetName=NetDEMUX_2_1_1 Pin=SP8T_Combo_2-10
+Added Net: Name=NetDEMUX_2_1_1
+Added Pin To Net: NetName=NetDEMUX_2_1_2 Pin=DEMUX_2_1-2
+Added Pin To Net: NetName=NetDEMUX_2_1_2 Pin=Main Connector-3
+Added Pin To Net: NetName=NetDEMUX_2_1_2 Pin=SP8T_Combo_2-9
+Added Net: Name=NetDEMUX_2_1_2
+Added Pin To Net: NetName=NetDEMUX_2_1_3 Pin=DEMUX_2_1-3
+Added Pin To Net: NetName=NetDEMUX_2_1_3 Pin=Main Connector-4
+Added Pin To Net: NetName=NetDEMUX_2_1_3 Pin=SP8T_Combo_2-7
+Added Net: Name=NetDEMUX_2_1_3
+Added Pin To Net: NetName=NetDEMUX_2_1_6 Pin=DEMUX_2_1-6
+Added Pin To Net: NetName=NetDEMUX_2_1_6 Pin=Main Connector-5
+Added Net: Name=NetDEMUX_2_1_6
+Added Pin To Net: NetName=NetDEMUX_2_1_7 Pin=DEMUX_2_1-7
+Added Pin To Net: NetName=NetDEMUX_2_1_7 Pin=NOR_2_2-11
+Added Pin To Net: NetName=NetDEMUX_2_1_7 Pin=SPDT_2_2-5
+Added Net: Name=NetDEMUX_2_1_7
+Added Pin To Net: NetName=NetDEMUX_2_1_9 Pin=DEMUX_2_1-9
+Added Pin To Net: NetName=NetDEMUX_2_1_9 Pin=NOR_2_2-8
+Added Pin To Net: NetName=NetDEMUX_2_1_9 Pin=SPDT_2_2-4
+Added Net: Name=NetDEMUX_2_1_9
+Added Pin To Net: NetName=NetDEMUX_2_1_10 Pin=DEMUX_2_1-10
+Added Pin To Net: NetName=NetDEMUX_2_1_10 Pin=NOR_2_2-5
+Added Pin To Net: NetName=NetDEMUX_2_1_10 Pin=SPDT_2_2-3
+Added Net: Name=NetDEMUX_2_1_10
+Added Pin To Net: NetName=NetDEMUX_2_1_11 Pin=DEMUX_2_1-11
+Added Pin To Net: NetName=NetDEMUX_2_1_11 Pin=NOR_2_2-2
+Added Pin To Net: NetName=NetDEMUX_2_1_11 Pin=SPDT_2_2-2
+Added Net: Name=NetDEMUX_2_1_11
+Added Pin To Net: NetName=NetDEMUX_2_1_12 Pin=DEMUX_2_1-12
+Added Pin To Net: NetName=NetDEMUX_2_1_12 Pin=NOR_2_1-11
+Added Pin To Net: NetName=NetDEMUX_2_1_12 Pin=SPDT_2_1-5
+Added Net: Name=NetDEMUX_2_1_12
+Added Pin To Net: NetName=NetDEMUX_2_1_13 Pin=DEMUX_2_1-13
+Added Pin To Net: NetName=NetDEMUX_2_1_13 Pin=NOR_2_1-8
+Added Pin To Net: NetName=NetDEMUX_2_1_13 Pin=SPDT_2_1-4
+Added Net: Name=NetDEMUX_2_1_13
+Added Pin To Net: NetName=NetDEMUX_2_1_14 Pin=DEMUX_2_1-14
+Added Pin To Net: NetName=NetDEMUX_2_1_14 Pin=NOR_2_1-5
+Added Pin To Net: NetName=NetDEMUX_2_1_14 Pin=SPDT_2_1-3
+Added Net: Name=NetDEMUX_2_1_14
+Added Pin To Net: NetName=NetDEMUX_2_1_15 Pin=DEMUX_2_1-15
+Added Pin To Net: NetName=NetDEMUX_2_1_15 Pin=NOR_2_1-2
+Added Pin To Net: NetName=NetDEMUX_2_1_15 Pin=SPDT_2_1-2
+Added Net: Name=NetDEMUX_2_1_15
+Added Pin To Net: NetName=NetDEMUX_2_2_1 Pin=DEMUX_2_2-1
+Added Pin To Net: NetName=NetDEMUX_2_2_1 Pin=Main Connector-17
+Added Pin To Net: NetName=NetDEMUX_2_2_1 Pin=SP8T_Combo_2-2
+Added Net: Name=NetDEMUX_2_2_1
+Added Pin To Net: NetName=NetDEMUX_2_2_2 Pin=DEMUX_2_2-2
+Added Pin To Net: NetName=NetDEMUX_2_2_2 Pin=Main Connector-18
+Added Pin To Net: NetName=NetDEMUX_2_2_2 Pin=SP8T_Combo_2-3
+Added Net: Name=NetDEMUX_2_2_2
+Added Pin To Net: NetName=NetDEMUX_2_2_3 Pin=DEMUX_2_2-3
+Added Pin To Net: NetName=NetDEMUX_2_2_3 Pin=Main Connector-19
+Added Pin To Net: NetName=NetDEMUX_2_2_3 Pin=SP8T_Combo_2-4
+Added Net: Name=NetDEMUX_2_2_3
+Added Pin To Net: NetName=NetDEMUX_2_2_6 Pin=DEMUX_2_2-6
+Added Pin To Net: NetName=NetDEMUX_2_2_6 Pin=Main Connector-20
+Added Net: Name=NetDEMUX_2_2_6
+Added Pin To Net: NetName=NetDEMUX_2_2_7 Pin=DEMUX_2_2-7
+Added Pin To Net: NetName=NetDEMUX_2_2_7 Pin=NOR_2_2-12
+Added Net: Name=NetDEMUX_2_2_7
+Added Pin To Net: NetName=NetDEMUX_2_2_9 Pin=DEMUX_2_2-9
+Added Pin To Net: NetName=NetDEMUX_2_2_9 Pin=NOR_2_2-9
+Added Net: Name=NetDEMUX_2_2_9
+Added Pin To Net: NetName=NetDEMUX_2_2_10 Pin=DEMUX_2_2-10
+Added Pin To Net: NetName=NetDEMUX_2_2_10 Pin=NOR_2_2-6
+Added Net: Name=NetDEMUX_2_2_10
+Added Pin To Net: NetName=NetDEMUX_2_2_11 Pin=DEMUX_2_2-11
+Added Pin To Net: NetName=NetDEMUX_2_2_11 Pin=NOR_2_2-3
+Added Net: Name=NetDEMUX_2_2_11
+Added Pin To Net: NetName=NetDEMUX_2_2_12 Pin=DEMUX_2_2-12
+Added Pin To Net: NetName=NetDEMUX_2_2_12 Pin=NOR_2_1-12
+Added Net: Name=NetDEMUX_2_2_12
+Added Pin To Net: NetName=NetDEMUX_2_2_13 Pin=DEMUX_2_2-13
+Added Pin To Net: NetName=NetDEMUX_2_2_13 Pin=NOR_2_1-9
+Added Net: Name=NetDEMUX_2_2_13
+Added Pin To Net: NetName=NetDEMUX_2_2_14 Pin=DEMUX_2_2-14
+Added Pin To Net: NetName=NetDEMUX_2_2_14 Pin=NOR_2_1-6
+Added Net: Name=NetDEMUX_2_2_14
+Added Pin To Net: NetName=NetDEMUX_2_2_15 Pin=DEMUX_2_2-15
+Added Pin To Net: NetName=NetDEMUX_2_2_15 Pin=NOR_2_1-3
+Added Net: Name=NetDEMUX_2_2_15
+Added Pin To Net: NetName=NetDEMUX_3_1_1 Pin=DEMUX_3_1-1
+Added Pin To Net: NetName=NetDEMUX_3_1_1 Pin=Main Connector-26
+Added Pin To Net: NetName=NetDEMUX_3_1_1 Pin=SP8T_Combo_3-10
+Added Net: Name=NetDEMUX_3_1_1
+Added Pin To Net: NetName=NetDEMUX_3_1_2 Pin=DEMUX_3_1-2
+Added Pin To Net: NetName=NetDEMUX_3_1_2 Pin=Main Connector-25
+Added Pin To Net: NetName=NetDEMUX_3_1_2 Pin=SP8T_Combo_3-9
+Added Net: Name=NetDEMUX_3_1_2
+Added Pin To Net: NetName=NetDEMUX_3_1_3 Pin=DEMUX_3_1-3
+Added Pin To Net: NetName=NetDEMUX_3_1_3 Pin=Main Connector-24
+Added Pin To Net: NetName=NetDEMUX_3_1_3 Pin=SP8T_Combo_3-7
+Added Net: Name=NetDEMUX_3_1_3
+Added Pin To Net: NetName=NetDEMUX_3_1_6 Pin=DEMUX_3_1-6
+Added Pin To Net: NetName=NetDEMUX_3_1_6 Pin=Main Connector-27
+Added Net: Name=NetDEMUX_3_1_6
+Added Pin To Net: NetName=NetDEMUX_3_1_7 Pin=DEMUX_3_1-7
+Added Pin To Net: NetName=NetDEMUX_3_1_7 Pin=NOR_3_2-11
+Added Pin To Net: NetName=NetDEMUX_3_1_7 Pin=SPDT_3_2-5
+Added Net: Name=NetDEMUX_3_1_7
+Added Pin To Net: NetName=NetDEMUX_3_1_9 Pin=DEMUX_3_1-9
+Added Pin To Net: NetName=NetDEMUX_3_1_9 Pin=NOR_3_2-8
+Added Pin To Net: NetName=NetDEMUX_3_1_9 Pin=SPDT_3_2-4
+Added Net: Name=NetDEMUX_3_1_9
+Added Pin To Net: NetName=NetDEMUX_3_1_10 Pin=DEMUX_3_1-10
+Added Pin To Net: NetName=NetDEMUX_3_1_10 Pin=NOR_3_2-5
+Added Pin To Net: NetName=NetDEMUX_3_1_10 Pin=SPDT_3_2-3
+Added Net: Name=NetDEMUX_3_1_10
+Added Pin To Net: NetName=NetDEMUX_3_1_11 Pin=DEMUX_3_1-11
+Added Pin To Net: NetName=NetDEMUX_3_1_11 Pin=NOR_3_2-2
+Added Pin To Net: NetName=NetDEMUX_3_1_11 Pin=SPDT_3_2-2
+Added Net: Name=NetDEMUX_3_1_11
+Added Pin To Net: NetName=NetDEMUX_3_1_12 Pin=DEMUX_3_1-12
+Added Pin To Net: NetName=NetDEMUX_3_1_12 Pin=NOR_3_1-11
+Added Pin To Net: NetName=NetDEMUX_3_1_12 Pin=SPDT_3_1-5
+Added Net: Name=NetDEMUX_3_1_12
+Added Pin To Net: NetName=NetDEMUX_3_1_13 Pin=DEMUX_3_1-13
+Added Pin To Net: NetName=NetDEMUX_3_1_13 Pin=NOR_3_1-8
+Added Pin To Net: NetName=NetDEMUX_3_1_13 Pin=SPDT_3_1-4
+Added Net: Name=NetDEMUX_3_1_13
+Added Pin To Net: NetName=NetDEMUX_3_1_14 Pin=DEMUX_3_1-14
+Added Pin To Net: NetName=NetDEMUX_3_1_14 Pin=NOR_3_1-5
+Added Pin To Net: NetName=NetDEMUX_3_1_14 Pin=SPDT_3_1-3
+Added Net: Name=NetDEMUX_3_1_14
+Added Pin To Net: NetName=NetDEMUX_3_1_15 Pin=DEMUX_3_1-15
+Added Pin To Net: NetName=NetDEMUX_3_1_15 Pin=NOR_3_1-2
+Added Pin To Net: NetName=NetDEMUX_3_1_15 Pin=SPDT_3_1-2
+Added Net: Name=NetDEMUX_3_1_15
+Added Pin To Net: NetName=NetDEMUX_3_2_1 Pin=DEMUX_3_2-1
+Added Pin To Net: NetName=NetDEMUX_3_2_1 Pin=Main Connector-21
+Added Pin To Net: NetName=NetDEMUX_3_2_1 Pin=SP8T_Combo_3-2
+Added Net: Name=NetDEMUX_3_2_1
+Added Pin To Net: NetName=NetDEMUX_3_2_2 Pin=DEMUX_3_2-2
+Added Pin To Net: NetName=NetDEMUX_3_2_2 Pin=Main Connector-22
+Added Pin To Net: NetName=NetDEMUX_3_2_2 Pin=SP8T_Combo_3-3
+Added Net: Name=NetDEMUX_3_2_2
+Added Pin To Net: NetName=NetDEMUX_3_2_3 Pin=DEMUX_3_2-3
+Added Pin To Net: NetName=NetDEMUX_3_2_3 Pin=Main Connector-23
+Added Pin To Net: NetName=NetDEMUX_3_2_3 Pin=SP8T_Combo_3-4
+Added Net: Name=NetDEMUX_3_2_3
+Added Pin To Net: NetName=NetDEMUX_3_2_6 Pin=DEMUX_3_2-6
+Added Pin To Net: NetName=NetDEMUX_3_2_6 Pin=Main Connector-28
+Added Net: Name=NetDEMUX_3_2_6
+Added Pin To Net: NetName=NetDEMUX_3_2_7 Pin=DEMUX_3_2-7
+Added Pin To Net: NetName=NetDEMUX_3_2_7 Pin=NOR_3_2-12
+Added Net: Name=NetDEMUX_3_2_7
+Added Pin To Net: NetName=NetDEMUX_3_2_9 Pin=DEMUX_3_2-9
+Added Pin To Net: NetName=NetDEMUX_3_2_9 Pin=NOR_3_2-9
+Added Net: Name=NetDEMUX_3_2_9
+Added Pin To Net: NetName=NetDEMUX_3_2_10 Pin=DEMUX_3_2-10
+Added Pin To Net: NetName=NetDEMUX_3_2_10 Pin=NOR_3_2-6
+Added Net: Name=NetDEMUX_3_2_10
+Added Pin To Net: NetName=NetDEMUX_3_2_11 Pin=DEMUX_3_2-11
+Added Pin To Net: NetName=NetDEMUX_3_2_11 Pin=NOR_3_2-3
+Added Net: Name=NetDEMUX_3_2_11
+Added Pin To Net: NetName=NetDEMUX_3_2_12 Pin=DEMUX_3_2-12
+Added Pin To Net: NetName=NetDEMUX_3_2_12 Pin=NOR_3_1-12
+Added Net: Name=NetDEMUX_3_2_12
+Added Pin To Net: NetName=NetDEMUX_3_2_13 Pin=DEMUX_3_2-13
+Added Pin To Net: NetName=NetDEMUX_3_2_13 Pin=NOR_3_1-9
+Added Net: Name=NetDEMUX_3_2_13
+Added Pin To Net: NetName=NetDEMUX_3_2_14 Pin=DEMUX_3_2-14
+Added Pin To Net: NetName=NetDEMUX_3_2_14 Pin=NOR_3_1-6
+Added Net: Name=NetDEMUX_3_2_14
+Added Pin To Net: NetName=NetDEMUX_3_2_15 Pin=DEMUX_3_2-15
+Added Pin To Net: NetName=NetDEMUX_3_2_15 Pin=NOR_3_1-3
+Added Net: Name=NetDEMUX_3_2_15
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Main Connector-14
+Added Pin To Net: NetName=NetMain Connector_14 Pin=SP3T_1-2
+Added Net: Name=NetMain Connector_14
+Added Pin To Net: NetName=NetMain Connector_15 Pin=Main Connector-15
+Added Pin To Net: NetName=NetMain Connector_15 Pin=SP3T_1-3
+Added Net: Name=NetMain Connector_15
+Added Pin To Net: NetName=NetMain Connector_29 Pin=Main Connector-29
+Added Pin To Net: NetName=NetMain Connector_29 Pin=SP3T_2-2
+Added Net: Name=NetMain Connector_29
+Added Pin To Net: NetName=NetMain Connector_30 Pin=Main Connector-30
+Added Pin To Net: NetName=NetMain Connector_30 Pin=SP3T_2-3
+Added Net: Name=NetMain Connector_30
+Added Pin To Net: NetName=NetNOR_1_1_1 Pin=NOR_1_1-1
+Added Pin To Net: NetName=NetNOR_1_1_1 Pin=SPDT_1_1-7
+Added Net: Name=NetNOR_1_1_1
+Added Pin To Net: NetName=NetNOR_1_1_4 Pin=NOR_1_1-4
+Added Pin To Net: NetName=NetNOR_1_1_4 Pin=SPDT_1_1-8
+Added Net: Name=NetNOR_1_1_4
+Added Pin To Net: NetName=NetNOR_1_1_10 Pin=NOR_1_1-10
+Added Pin To Net: NetName=NetNOR_1_1_10 Pin=SPDT_1_1-9
+Added Net: Name=NetNOR_1_1_10
+Added Pin To Net: NetName=NetNOR_1_1_13 Pin=NOR_1_1-13
+Added Pin To Net: NetName=NetNOR_1_1_13 Pin=SPDT_1_1-10
+Added Net: Name=NetNOR_1_1_13
+Added Pin To Net: NetName=NetNOR_1_2_1 Pin=NOR_1_2-1
+Added Pin To Net: NetName=NetNOR_1_2_1 Pin=SPDT_1_2-7
+Added Net: Name=NetNOR_1_2_1
+Added Pin To Net: NetName=NetNOR_1_2_4 Pin=NOR_1_2-4
+Added Pin To Net: NetName=NetNOR_1_2_4 Pin=SPDT_1_2-8
+Added Net: Name=NetNOR_1_2_4
+Added Pin To Net: NetName=NetNOR_1_2_10 Pin=NOR_1_2-10
+Added Pin To Net: NetName=NetNOR_1_2_10 Pin=SPDT_1_2-9
+Added Net: Name=NetNOR_1_2_10
+Added Pin To Net: NetName=NetNOR_1_2_13 Pin=NOR_1_2-13
+Added Pin To Net: NetName=NetNOR_1_2_13 Pin=SPDT_1_2-10
+Added Net: Name=NetNOR_1_2_13
+Added Pin To Net: NetName=NetNOR_2_1_1 Pin=NOR_2_1-1
+Added Pin To Net: NetName=NetNOR_2_1_1 Pin=SPDT_2_1-7
+Added Net: Name=NetNOR_2_1_1
+Added Pin To Net: NetName=NetNOR_2_1_4 Pin=NOR_2_1-4
+Added Pin To Net: NetName=NetNOR_2_1_4 Pin=SPDT_2_1-8
+Added Net: Name=NetNOR_2_1_4
+Added Pin To Net: NetName=NetNOR_2_1_10 Pin=NOR_2_1-10
+Added Pin To Net: NetName=NetNOR_2_1_10 Pin=SPDT_2_1-9
+Added Net: Name=NetNOR_2_1_10
+Added Pin To Net: NetName=NetNOR_2_1_13 Pin=NOR_2_1-13
+Added Pin To Net: NetName=NetNOR_2_1_13 Pin=SPDT_2_1-10
+Added Net: Name=NetNOR_2_1_13
+Added Pin To Net: NetName=NetNOR_2_2_1 Pin=NOR_2_2-1
+Added Pin To Net: NetName=NetNOR_2_2_1 Pin=SPDT_2_2-7
+Added Net: Name=NetNOR_2_2_1
+Added Pin To Net: NetName=NetNOR_2_2_4 Pin=NOR_2_2-4
+Added Pin To Net: NetName=NetNOR_2_2_4 Pin=SPDT_2_2-8
+Added Net: Name=NetNOR_2_2_4
+Added Pin To Net: NetName=NetNOR_2_2_10 Pin=NOR_2_2-10
+Added Pin To Net: NetName=NetNOR_2_2_10 Pin=SPDT_2_2-9
+Added Net: Name=NetNOR_2_2_10
+Added Pin To Net: NetName=NetNOR_2_2_13 Pin=NOR_2_2-13
+Added Pin To Net: NetName=NetNOR_2_2_13 Pin=SPDT_2_2-10
+Added Net: Name=NetNOR_2_2_13
+Added Pin To Net: NetName=NetNOR_3_1_1 Pin=NOR_3_1-1
+Added Pin To Net: NetName=NetNOR_3_1_1 Pin=SPDT_3_1-7
+Added Net: Name=NetNOR_3_1_1
+Added Pin To Net: NetName=NetNOR_3_1_4 Pin=NOR_3_1-4
+Added Pin To Net: NetName=NetNOR_3_1_4 Pin=SPDT_3_1-8
+Added Net: Name=NetNOR_3_1_4
+Added Pin To Net: NetName=NetNOR_3_1_10 Pin=NOR_3_1-10
+Added Pin To Net: NetName=NetNOR_3_1_10 Pin=SPDT_3_1-9
+Added Net: Name=NetNOR_3_1_10
+Added Pin To Net: NetName=NetNOR_3_1_13 Pin=NOR_3_1-13
+Added Pin To Net: NetName=NetNOR_3_1_13 Pin=SPDT_3_1-10
+Added Net: Name=NetNOR_3_1_13
+Added Pin To Net: NetName=NetNOR_3_2_1 Pin=NOR_3_2-1
+Added Pin To Net: NetName=NetNOR_3_2_1 Pin=SPDT_3_2-7
+Added Net: Name=NetNOR_3_2_1
+Added Pin To Net: NetName=NetNOR_3_2_4 Pin=NOR_3_2-4
+Added Pin To Net: NetName=NetNOR_3_2_4 Pin=SPDT_3_2-8
+Added Net: Name=NetNOR_3_2_4
+Added Pin To Net: NetName=NetNOR_3_2_10 Pin=NOR_3_2-10
+Added Pin To Net: NetName=NetNOR_3_2_10 Pin=SPDT_3_2-9
+Added Net: Name=NetNOR_3_2_10
+Added Pin To Net: NetName=NetNOR_3_2_13 Pin=NOR_3_2-13
+Added Pin To Net: NetName=NetNOR_3_2_13 Pin=SPDT_3_2-10
+Added Net: Name=NetNOR_3_2_13
+Added Pin To Net: NetName=VCC Pin=NOR_1_1-14
+Added Pin To Net: NetName=VCC Pin=NOR_1_2-14
+Added Pin To Net: NetName=VCC Pin=NOR_2_1-14
+Added Pin To Net: NetName=VCC Pin=NOR_2_2-14
+Added Pin To Net: NetName=VCC Pin=NOR_3_1-14
+Added Pin To Net: NetName=VCC Pin=NOR_3_2-14
+Added Net: Name=VCC

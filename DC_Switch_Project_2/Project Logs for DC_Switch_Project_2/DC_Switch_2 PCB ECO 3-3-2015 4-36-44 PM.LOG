@@ -1,0 +1,250 @@
+Added Component: Designator=D_1_1()
+Added Component: Designator=D_1_2()
+Added Component: Designator=D_2_1()
+Added Component: Designator=D_2_2()
+Added Component: Designator=D_3_1()
+Added Component: Designator=D_3_2()
+Added Component: Designator=Main Connector(HDR2X15_CEN)
+Added Component: Designator=SP3T_1(HDR1X3)
+Added Component: Designator=SP3T_2(HDR1X3)
+Added Component: Designator=SP8T_Combo_1(HDR2X5_CEN)
+Added Component: Designator=SP8T_Combo_2(HDR2X5_CEN)
+Added Component: Designator=SP8T_Combo_3(HDR2X5_CEN)
+Added Component: Designator=SPDT_1_1(HDR2X5_CEN)
+Added Component: Designator=SPDT_1_2(HDR2X5_CEN)
+Added Component: Designator=SPDT_2_1(HDR2X5_CEN)
+Added Component: Designator=SPDT_2_2(HDR2X5_CEN)
+Added Component: Designator=SPDT_3_1(HDR2X5_CEN)
+Added Component: Designator=SPDT_3_2(HDR2X5_CEN)
+Added Pin To Net: NetName=NetD_1_1_D Pin=Main Connector-1
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP3T_1-1
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP3T_2-1
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP8T_Combo_1-5
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP8T_Combo_1-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP8T_Combo_2-5
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP8T_Combo_2-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP8T_Combo_3-5
+Added Pin To Net: NetName=NetD_1_1_D Pin=SP8T_Combo_3-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SPDT_1_1-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SPDT_1_2-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SPDT_2_1-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SPDT_2_2-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SPDT_3_1-6
+Added Pin To Net: NetName=NetD_1_1_D Pin=SPDT_3_2-6
+Added Net: Name=NetD_1_1_D
+Added Pin To Net: NetName=NetD_1_1_E Pin=Main Connector-12
+Added Net: Name=NetD_1_1_E
+Added Net: Name=NetD_1_1_S0
+Added Net: Name=NetD_1_1_S1
+Added Net: Name=NetD_1_1_S2
+Added Pin To Net: NetName=NetD_1_1_YA Pin=SPDT_1_1-2
+Added Net: Name=NetD_1_1_YA
+Added Pin To Net: NetName=NetD_1_1_YB Pin=SPDT_1_1-3
+Added Net: Name=NetD_1_1_YB
+Added Pin To Net: NetName=NetD_1_1_YC Pin=SPDT_1_1-4
+Added Net: Name=NetD_1_1_YC
+Added Pin To Net: NetName=NetD_1_1_YD Pin=SPDT_1_1-5
+Added Net: Name=NetD_1_1_YD
+Added Pin To Net: NetName=NetD_1_1_YE Pin=SPDT_1_2-2
+Added Net: Name=NetD_1_1_YE
+Added Pin To Net: NetName=NetD_1_1_YF Pin=SPDT_1_2-3
+Added Net: Name=NetD_1_1_YF
+Added Pin To Net: NetName=NetD_1_1_YG Pin=SPDT_1_2-4
+Added Net: Name=NetD_1_1_YG
+Added Pin To Net: NetName=NetD_1_1_YH Pin=SPDT_1_2-5
+Added Net: Name=NetD_1_1_YH
+Added Pin To Net: NetName=NetD_1_2_E Pin=Main Connector-13
+Added Net: Name=NetD_1_2_E
+Added Net: Name=NetD_1_2_YA
+Added Net: Name=NetD_1_2_YB
+Added Net: Name=NetD_1_2_YC
+Added Net: Name=NetD_1_2_YD
+Added Net: Name=NetD_1_2_YE
+Added Net: Name=NetD_1_2_YF
+Added Net: Name=NetD_1_2_YG
+Added Net: Name=NetD_1_2_YH
+Added Pin To Net: NetName=NetD_2_1_E Pin=Main Connector-5
+Added Net: Name=NetD_2_1_E
+Added Pin To Net: NetName=NetD_2_1_YA Pin=SPDT_2_1-2
+Added Net: Name=NetD_2_1_YA
+Added Pin To Net: NetName=NetD_2_1_YB Pin=SPDT_2_1-3
+Added Net: Name=NetD_2_1_YB
+Added Pin To Net: NetName=NetD_2_1_YC Pin=SPDT_2_1-4
+Added Net: Name=NetD_2_1_YC
+Added Pin To Net: NetName=NetD_2_1_YD Pin=SPDT_2_1-5
+Added Net: Name=NetD_2_1_YD
+Added Pin To Net: NetName=NetD_2_1_YE Pin=SPDT_2_2-2
+Added Net: Name=NetD_2_1_YE
+Added Pin To Net: NetName=NetD_2_1_YF Pin=SPDT_2_2-3
+Added Net: Name=NetD_2_1_YF
+Added Pin To Net: NetName=NetD_2_1_YG Pin=SPDT_2_2-4
+Added Net: Name=NetD_2_1_YG
+Added Pin To Net: NetName=NetD_2_1_YH Pin=SPDT_2_2-5
+Added Net: Name=NetD_2_1_YH
+Added Pin To Net: NetName=NetD_2_2_E Pin=Main Connector-20
+Added Net: Name=NetD_2_2_E
+Added Net: Name=NetD_2_2_YA
+Added Net: Name=NetD_2_2_YB
+Added Net: Name=NetD_2_2_YC
+Added Net: Name=NetD_2_2_YD
+Added Net: Name=NetD_2_2_YE
+Added Net: Name=NetD_2_2_YF
+Added Net: Name=NetD_2_2_YG
+Added Net: Name=NetD_2_2_YH
+Added Pin To Net: NetName=NetD_3_1_E Pin=Main Connector-27
+Added Net: Name=NetD_3_1_E
+Added Pin To Net: NetName=NetD_3_1_YA Pin=SPDT_3_1-2
+Added Net: Name=NetD_3_1_YA
+Added Pin To Net: NetName=NetD_3_1_YB Pin=SPDT_3_1-3
+Added Net: Name=NetD_3_1_YB
+Added Pin To Net: NetName=NetD_3_1_YC Pin=SPDT_3_1-4
+Added Net: Name=NetD_3_1_YC
+Added Pin To Net: NetName=NetD_3_1_YD Pin=SPDT_3_1-5
+Added Net: Name=NetD_3_1_YD
+Added Pin To Net: NetName=NetD_3_1_YE Pin=SPDT_3_2-2
+Added Net: Name=NetD_3_1_YE
+Added Pin To Net: NetName=NetD_3_1_YF Pin=SPDT_3_2-3
+Added Net: Name=NetD_3_1_YF
+Added Pin To Net: NetName=NetD_3_1_YG Pin=SPDT_3_2-4
+Added Net: Name=NetD_3_1_YG
+Added Pin To Net: NetName=NetD_3_1_YH Pin=SPDT_3_2-5
+Added Net: Name=NetD_3_1_YH
+Added Pin To Net: NetName=NetD_3_2_E Pin=Main Connector-28
+Added Net: Name=NetD_3_2_E
+Added Net: Name=NetD_3_2_YA
+Added Net: Name=NetD_3_2_YB
+Added Net: Name=NetD_3_2_YC
+Added Net: Name=NetD_3_2_YD
+Added Net: Name=NetD_3_2_YE
+Added Net: Name=NetD_3_2_YF
+Added Net: Name=NetD_3_2_YG
+Added Net: Name=NetD_3_2_YH
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Main Connector-2
+Added Pin To Net: NetName=NetMain Connector_2 Pin=SP8T_Combo_2-10
+Added Net: Name=NetMain Connector_2
+Added Pin To Net: NetName=NetMain Connector_3 Pin=Main Connector-3
+Added Pin To Net: NetName=NetMain Connector_3 Pin=SP8T_Combo_2-9
+Added Net: Name=NetMain Connector_3
+Added Pin To Net: NetName=NetMain Connector_4 Pin=Main Connector-4
+Added Pin To Net: NetName=NetMain Connector_4 Pin=SP8T_Combo_2-7
+Added Net: Name=NetMain Connector_4
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Main Connector-6
+Added Pin To Net: NetName=NetMain Connector_6 Pin=SP8T_Combo_1-10
+Added Net: Name=NetMain Connector_6
+Added Pin To Net: NetName=NetMain Connector_7 Pin=Main Connector-7
+Added Pin To Net: NetName=NetMain Connector_7 Pin=SP8T_Combo_1-9
+Added Net: Name=NetMain Connector_7
+Added Pin To Net: NetName=NetMain Connector_8 Pin=Main Connector-8
+Added Pin To Net: NetName=NetMain Connector_8 Pin=SP8T_Combo_1-7
+Added Net: Name=NetMain Connector_8
+Added Pin To Net: NetName=NetMain Connector_9 Pin=Main Connector-9
+Added Pin To Net: NetName=NetMain Connector_9 Pin=SP8T_Combo_1-4
+Added Net: Name=NetMain Connector_9
+Added Pin To Net: NetName=NetMain Connector_10 Pin=Main Connector-10
+Added Pin To Net: NetName=NetMain Connector_10 Pin=SP8T_Combo_1-3
+Added Net: Name=NetMain Connector_10
+Added Pin To Net: NetName=NetMain Connector_11 Pin=Main Connector-11
+Added Pin To Net: NetName=NetMain Connector_11 Pin=SP8T_Combo_1-2
+Added Net: Name=NetMain Connector_11
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Main Connector-14
+Added Pin To Net: NetName=NetMain Connector_14 Pin=SP3T_1-2
+Added Net: Name=NetMain Connector_14
+Added Pin To Net: NetName=NetMain Connector_15 Pin=Main Connector-15
+Added Pin To Net: NetName=NetMain Connector_15 Pin=SP3T_1-3
+Added Net: Name=NetMain Connector_15
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Main Connector-16
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SP8T_Combo_1-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SP8T_Combo_1-8
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SP8T_Combo_2-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SP8T_Combo_2-8
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SP8T_Combo_3-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SP8T_Combo_3-8
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SPDT_1_1-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SPDT_1_2-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SPDT_2_1-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SPDT_2_2-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SPDT_3_1-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=SPDT_3_2-1
+Added Net: Name=NetMain Connector_16
+Added Pin To Net: NetName=NetMain Connector_17 Pin=Main Connector-17
+Added Pin To Net: NetName=NetMain Connector_17 Pin=SP8T_Combo_2-2
+Added Net: Name=NetMain Connector_17
+Added Pin To Net: NetName=NetMain Connector_18 Pin=Main Connector-18
+Added Pin To Net: NetName=NetMain Connector_18 Pin=SP8T_Combo_2-3
+Added Net: Name=NetMain Connector_18
+Added Pin To Net: NetName=NetMain Connector_19 Pin=Main Connector-19
+Added Pin To Net: NetName=NetMain Connector_19 Pin=SP8T_Combo_2-4
+Added Net: Name=NetMain Connector_19
+Added Pin To Net: NetName=NetMain Connector_21 Pin=Main Connector-21
+Added Pin To Net: NetName=NetMain Connector_21 Pin=SP8T_Combo_3-2
+Added Net: Name=NetMain Connector_21
+Added Pin To Net: NetName=NetMain Connector_22 Pin=Main Connector-22
+Added Pin To Net: NetName=NetMain Connector_22 Pin=SP8T_Combo_3-3
+Added Net: Name=NetMain Connector_22
+Added Pin To Net: NetName=NetMain Connector_23 Pin=Main Connector-23
+Added Pin To Net: NetName=NetMain Connector_23 Pin=SP8T_Combo_3-4
+Added Net: Name=NetMain Connector_23
+Added Pin To Net: NetName=NetMain Connector_24 Pin=Main Connector-24
+Added Pin To Net: NetName=NetMain Connector_24 Pin=SP8T_Combo_3-7
+Added Net: Name=NetMain Connector_24
+Added Pin To Net: NetName=NetMain Connector_25 Pin=Main Connector-25
+Added Pin To Net: NetName=NetMain Connector_25 Pin=SP8T_Combo_3-9
+Added Net: Name=NetMain Connector_25
+Added Pin To Net: NetName=NetMain Connector_26 Pin=Main Connector-26
+Added Pin To Net: NetName=NetMain Connector_26 Pin=SP8T_Combo_3-10
+Added Net: Name=NetMain Connector_26
+Added Pin To Net: NetName=NetMain Connector_29 Pin=Main Connector-29
+Added Pin To Net: NetName=NetMain Connector_29 Pin=SP3T_2-2
+Added Net: Name=NetMain Connector_29
+Added Pin To Net: NetName=NetMain Connector_30 Pin=Main Connector-30
+Added Pin To Net: NetName=NetMain Connector_30 Pin=SP3T_2-3
+Added Net: Name=NetMain Connector_30
+Added Pin To Net: NetName=NetNOR1_1_Y Pin=SPDT_1_1-7
+Added Net: Name=NetNOR1_1_Y
+Added Pin To Net: NetName=NetNOR1_2_Y Pin=SPDT_1_1-8
+Added Net: Name=NetNOR1_2_Y
+Added Pin To Net: NetName=NetNOR1_3_Y Pin=SPDT_1_1-9
+Added Net: Name=NetNOR1_3_Y
+Added Pin To Net: NetName=NetNOR1_4_Y Pin=SPDT_1_1-10
+Added Net: Name=NetNOR1_4_Y
+Added Pin To Net: NetName=NetNOR1_5_Y Pin=SPDT_1_2-7
+Added Net: Name=NetNOR1_5_Y
+Added Pin To Net: NetName=NetNOR1_6_Y Pin=SPDT_1_2-8
+Added Net: Name=NetNOR1_6_Y
+Added Pin To Net: NetName=NetNOR1_7_Y Pin=SPDT_1_2-9
+Added Net: Name=NetNOR1_7_Y
+Added Pin To Net: NetName=NetNOR1_8_Y Pin=SPDT_1_2-10
+Added Net: Name=NetNOR1_8_Y
+Added Pin To Net: NetName=NetNOR2_1_Y Pin=SPDT_2_1-7
+Added Net: Name=NetNOR2_1_Y
+Added Pin To Net: NetName=NetNOR2_2_Y Pin=SPDT_2_1-8
+Added Net: Name=NetNOR2_2_Y
+Added Pin To Net: NetName=NetNOR2_3_Y Pin=SPDT_2_1-9
+Added Net: Name=NetNOR2_3_Y
+Added Pin To Net: NetName=NetNOR2_4_Y Pin=SPDT_2_1-10
+Added Net: Name=NetNOR2_4_Y
+Added Pin To Net: NetName=NetNOR2_5_Y Pin=SPDT_2_2-7
+Added Net: Name=NetNOR2_5_Y
+Added Pin To Net: NetName=NetNOR2_6_Y Pin=SPDT_2_2-8
+Added Net: Name=NetNOR2_6_Y
+Added Pin To Net: NetName=NetNOR2_7_Y Pin=SPDT_2_2-9
+Added Net: Name=NetNOR2_7_Y
+Added Pin To Net: NetName=NetNOR2_8_Y Pin=SPDT_2_2-10
+Added Net: Name=NetNOR2_8_Y
+Added Pin To Net: NetName=NetNOR3_1_Y Pin=SPDT_3_1-7
+Added Net: Name=NetNOR3_1_Y
+Added Pin To Net: NetName=NetNOR3_2_Y Pin=SPDT_3_1-8
+Added Net: Name=NetNOR3_2_Y
+Added Pin To Net: NetName=NetNOR3_3_Y Pin=SPDT_3_1-9
+Added Net: Name=NetNOR3_3_Y
+Added Pin To Net: NetName=NetNOR3_4_Y Pin=SPDT_3_1-10
+Added Net: Name=NetNOR3_4_Y
+Added Pin To Net: NetName=NetNOR3_5_Y Pin=SPDT_3_2-7
+Added Net: Name=NetNOR3_5_Y
+Added Pin To Net: NetName=NetNOR3_6_Y Pin=SPDT_3_2-8
+Added Net: Name=NetNOR3_6_Y
+Added Pin To Net: NetName=NetNOR3_7_Y Pin=SPDT_3_2-9
+Added Net: Name=NetNOR3_7_Y
+Added Pin To Net: NetName=NetNOR3_8_Y Pin=SPDT_3_2-10
+Added Net: Name=NetNOR3_8_Y
+Added Net: Name=S[2..0]

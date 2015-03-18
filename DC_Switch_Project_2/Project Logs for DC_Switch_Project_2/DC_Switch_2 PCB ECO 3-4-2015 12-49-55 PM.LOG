@@ -1,0 +1,146 @@
+Added Component: Designator=D_1_1()
+Added Component: Designator=D_1_2()
+Added Component: Designator=D_2_1()
+Added Component: Designator=D_2_2()
+Added Component: Designator=D_3_1()
+Added Component: Designator=D_3_2()
+Added Component: Designator=NOR_1_1(N014)
+Added Component: Designator=NOR_1_2(N014)
+Added Component: Designator=NOR_2_1(N014)
+Added Component: Designator=NOR_2_2(N014)
+Added Component: Designator=NOR_3_1(N014)
+Added Component: Designator=NOR_3_2(N014)
+Added Pin To Net: NetName=NetD_1_1_YA Pin=NOR_1_1-2
+Added Pin To Net: NetName=NetD_1_2_YH Pin=NOR_1_1-3
+Added Pin To Net: NetName=NetD_1_1_YB Pin=NOR_1_1-5
+Added Pin To Net: NetName=NetD_1_2_YG Pin=NOR_1_1-6
+Added Pin To Net: NetName=NetD_1_1_YC Pin=NOR_1_1-8
+Added Pin To Net: NetName=NetD_1_2_YF Pin=NOR_1_1-9
+Added Pin To Net: NetName=NetD_1_1_YD Pin=NOR_1_1-11
+Added Pin To Net: NetName=NetD_1_2_YE Pin=NOR_1_1-12
+Added Pin To Net: NetName=NetD_1_1_YE Pin=NOR_1_2-2
+Added Pin To Net: NetName=NetD_1_2_YD Pin=NOR_1_2-3
+Added Pin To Net: NetName=NetD_1_1_YF Pin=NOR_1_2-5
+Added Pin To Net: NetName=NetD_1_2_YC Pin=NOR_1_2-6
+Added Pin To Net: NetName=NetD_1_1_YG Pin=NOR_1_2-8
+Added Pin To Net: NetName=NetD_1_2_YB Pin=NOR_1_2-9
+Added Pin To Net: NetName=NetD_1_1_YH Pin=NOR_1_2-11
+Added Pin To Net: NetName=NetD_1_2_YA Pin=NOR_1_2-12
+Added Pin To Net: NetName=NetD_2_1_YA Pin=NOR_2_1-2
+Added Pin To Net: NetName=NetD_2_2_YH Pin=NOR_2_1-3
+Added Pin To Net: NetName=NetD_2_1_YB Pin=NOR_2_1-5
+Added Pin To Net: NetName=NetD_2_2_YG Pin=NOR_2_1-6
+Added Pin To Net: NetName=NetD_2_1_YC Pin=NOR_2_1-8
+Added Pin To Net: NetName=NetD_2_2_YF Pin=NOR_2_1-9
+Added Pin To Net: NetName=NetD_2_1_YD Pin=NOR_2_1-11
+Added Pin To Net: NetName=NetD_2_2_YE Pin=NOR_2_1-12
+Added Pin To Net: NetName=NetD_2_1_YE Pin=NOR_2_2-2
+Added Pin To Net: NetName=NetD_2_2_YD Pin=NOR_2_2-3
+Added Pin To Net: NetName=NetD_2_1_YF Pin=NOR_2_2-5
+Added Pin To Net: NetName=NetD_2_2_YC Pin=NOR_2_2-6
+Added Pin To Net: NetName=NetD_2_1_YG Pin=NOR_2_2-8
+Added Pin To Net: NetName=NetD_2_2_YB Pin=NOR_2_2-9
+Added Pin To Net: NetName=NetD_2_1_YH Pin=NOR_2_2-11
+Added Pin To Net: NetName=NetD_2_2_YA Pin=NOR_2_2-12
+Added Pin To Net: NetName=NetD_3_1_YA Pin=NOR_3_1-2
+Added Pin To Net: NetName=NetD_3_2_YH Pin=NOR_3_1-3
+Added Pin To Net: NetName=NetD_3_1_YB Pin=NOR_3_1-5
+Added Pin To Net: NetName=NetD_3_2_YG Pin=NOR_3_1-6
+Added Pin To Net: NetName=NetD_3_1_YC Pin=NOR_3_1-8
+Added Pin To Net: NetName=NetD_3_2_YF Pin=NOR_3_1-9
+Added Pin To Net: NetName=NetD_3_1_YD Pin=NOR_3_1-11
+Added Pin To Net: NetName=NetD_3_2_YE Pin=NOR_3_1-12
+Added Pin To Net: NetName=NetD_3_1_YE Pin=NOR_3_2-2
+Added Pin To Net: NetName=NetD_3_2_YD Pin=NOR_3_2-3
+Added Pin To Net: NetName=NetD_3_1_YF Pin=NOR_3_2-5
+Added Pin To Net: NetName=NetD_3_2_YC Pin=NOR_3_2-6
+Added Pin To Net: NetName=NetD_3_1_YG Pin=NOR_3_2-8
+Added Pin To Net: NetName=NetD_3_2_YB Pin=NOR_3_2-9
+Added Pin To Net: NetName=NetD_3_1_YH Pin=NOR_3_2-11
+Added Pin To Net: NetName=NetD_3_2_YA Pin=NOR_3_2-12
+Added Pin To Net: NetName=GND Pin=NOR_1_1-7
+Added Pin To Net: NetName=GND Pin=NOR_1_2-7
+Added Pin To Net: NetName=GND Pin=NOR_2_1-7
+Added Pin To Net: NetName=GND Pin=NOR_2_2-7
+Added Pin To Net: NetName=GND Pin=NOR_3_1-7
+Added Pin To Net: NetName=GND Pin=NOR_3_2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetNOR_1_1_1 Pin=NOR_1_1-1
+Added Pin To Net: NetName=NetNOR_1_1_1 Pin=SPDT_1_1-7
+Added Net: Name=NetNOR_1_1_1
+Added Pin To Net: NetName=NetNOR_1_1_4 Pin=NOR_1_1-4
+Added Pin To Net: NetName=NetNOR_1_1_4 Pin=SPDT_1_1-8
+Added Net: Name=NetNOR_1_1_4
+Added Pin To Net: NetName=NetNOR_1_1_10 Pin=NOR_1_1-10
+Added Pin To Net: NetName=NetNOR_1_1_10 Pin=SPDT_1_1-9
+Added Net: Name=NetNOR_1_1_10
+Added Pin To Net: NetName=NetNOR_1_1_13 Pin=NOR_1_1-13
+Added Pin To Net: NetName=NetNOR_1_1_13 Pin=SPDT_1_1-10
+Added Net: Name=NetNOR_1_1_13
+Added Pin To Net: NetName=NetNOR_1_2_1 Pin=NOR_1_2-1
+Added Pin To Net: NetName=NetNOR_1_2_1 Pin=SPDT_1_2-7
+Added Net: Name=NetNOR_1_2_1
+Added Pin To Net: NetName=NetNOR_1_2_4 Pin=NOR_1_2-4
+Added Pin To Net: NetName=NetNOR_1_2_4 Pin=SPDT_1_2-8
+Added Net: Name=NetNOR_1_2_4
+Added Pin To Net: NetName=NetNOR_1_2_10 Pin=NOR_1_2-10
+Added Pin To Net: NetName=NetNOR_1_2_10 Pin=SPDT_1_2-9
+Added Net: Name=NetNOR_1_2_10
+Added Pin To Net: NetName=NetNOR_1_2_13 Pin=NOR_1_2-13
+Added Pin To Net: NetName=NetNOR_1_2_13 Pin=SPDT_1_2-10
+Added Net: Name=NetNOR_1_2_13
+Added Pin To Net: NetName=NetNOR_2_1_1 Pin=NOR_2_1-1
+Added Pin To Net: NetName=NetNOR_2_1_1 Pin=SPDT_2_1-7
+Added Net: Name=NetNOR_2_1_1
+Added Pin To Net: NetName=NetNOR_2_1_4 Pin=NOR_2_1-4
+Added Pin To Net: NetName=NetNOR_2_1_4 Pin=SPDT_2_1-8
+Added Net: Name=NetNOR_2_1_4
+Added Pin To Net: NetName=NetNOR_2_1_10 Pin=NOR_2_1-10
+Added Pin To Net: NetName=NetNOR_2_1_10 Pin=SPDT_2_1-9
+Added Net: Name=NetNOR_2_1_10
+Added Pin To Net: NetName=NetNOR_2_1_13 Pin=NOR_2_1-13
+Added Pin To Net: NetName=NetNOR_2_1_13 Pin=SPDT_2_1-10
+Added Net: Name=NetNOR_2_1_13
+Added Pin To Net: NetName=NetNOR_2_2_1 Pin=NOR_2_2-1
+Added Pin To Net: NetName=NetNOR_2_2_1 Pin=SPDT_2_2-7
+Added Net: Name=NetNOR_2_2_1
+Added Pin To Net: NetName=NetNOR_2_2_4 Pin=NOR_2_2-4
+Added Pin To Net: NetName=NetNOR_2_2_4 Pin=SPDT_2_2-8
+Added Net: Name=NetNOR_2_2_4
+Added Pin To Net: NetName=NetNOR_2_2_10 Pin=NOR_2_2-10
+Added Pin To Net: NetName=NetNOR_2_2_10 Pin=SPDT_2_2-9
+Added Net: Name=NetNOR_2_2_10
+Added Pin To Net: NetName=NetNOR_2_2_13 Pin=NOR_2_2-13
+Added Pin To Net: NetName=NetNOR_2_2_13 Pin=SPDT_2_2-10
+Added Net: Name=NetNOR_2_2_13
+Added Pin To Net: NetName=NetNOR_3_1_1 Pin=NOR_3_1-1
+Added Pin To Net: NetName=NetNOR_3_1_1 Pin=SPDT_3_1-7
+Added Net: Name=NetNOR_3_1_1
+Added Pin To Net: NetName=NetNOR_3_1_4 Pin=NOR_3_1-4
+Added Pin To Net: NetName=NetNOR_3_1_4 Pin=SPDT_3_1-8
+Added Net: Name=NetNOR_3_1_4
+Added Pin To Net: NetName=NetNOR_3_1_10 Pin=NOR_3_1-10
+Added Pin To Net: NetName=NetNOR_3_1_10 Pin=SPDT_3_1-9
+Added Net: Name=NetNOR_3_1_10
+Added Pin To Net: NetName=NetNOR_3_1_13 Pin=NOR_3_1-13
+Added Pin To Net: NetName=NetNOR_3_1_13 Pin=SPDT_3_1-10
+Added Net: Name=NetNOR_3_1_13
+Added Pin To Net: NetName=NetNOR_3_2_1 Pin=NOR_3_2-1
+Added Pin To Net: NetName=NetNOR_3_2_1 Pin=SPDT_3_2-7
+Added Net: Name=NetNOR_3_2_1
+Added Pin To Net: NetName=NetNOR_3_2_4 Pin=NOR_3_2-4
+Added Pin To Net: NetName=NetNOR_3_2_4 Pin=SPDT_3_2-8
+Added Net: Name=NetNOR_3_2_4
+Added Pin To Net: NetName=NetNOR_3_2_10 Pin=NOR_3_2-10
+Added Pin To Net: NetName=NetNOR_3_2_10 Pin=SPDT_3_2-9
+Added Net: Name=NetNOR_3_2_10
+Added Pin To Net: NetName=NetNOR_3_2_13 Pin=NOR_3_2-13
+Added Pin To Net: NetName=NetNOR_3_2_13 Pin=SPDT_3_2-10
+Added Net: Name=NetNOR_3_2_13
+Added Pin To Net: NetName=VCC Pin=NOR_1_1-14
+Added Pin To Net: NetName=VCC Pin=NOR_1_2-14
+Added Pin To Net: NetName=VCC Pin=NOR_2_1-14
+Added Pin To Net: NetName=VCC Pin=NOR_2_2-14
+Added Pin To Net: NetName=VCC Pin=NOR_3_1-14
+Added Pin To Net: NetName=VCC Pin=NOR_3_2-14
+Added Net: Name=VCC
