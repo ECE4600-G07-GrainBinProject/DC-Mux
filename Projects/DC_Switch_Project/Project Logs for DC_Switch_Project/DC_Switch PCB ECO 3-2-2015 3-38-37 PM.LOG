@@ -1,0 +1,194 @@
+Added Component: Designator=Main Connector(HDR2X15_CEN)
+Added Component: Designator=Rx Line 1(HDR2X4_CEN)
+Added Component: Designator=Rx Line 2(HDR2X4_CEN)
+Added Component: Designator=Rx Line 3(HDR2X4_CEN)
+Added Component: Designator=Tx_Rx_En 1(HDR2X2)
+Added Component: Designator=Tx_Rx_En 2(HDR2X2)
+Added Component: Designator=Tx_Rx_En 3(HDR2X2)
+Added Component: Designator=Tx_Rx_S 1(HDR2X3_CEN)
+Added Component: Designator=Tx_Rx_S 2(HDR2X3_CEN)
+Added Component: Designator=Tx_Rx_S 3(HDR2X3_CEN)
+Added Component: Designator=Tx Line 1(HDR2X4_CEN)
+Added Component: Designator=Tx Line 2(HDR2X4_CEN)
+Added Component: Designator=Tx Line 3(HDR2X4_CEN)
+Added Component: Designator=U1_1()
+Added Component: Designator=U1_2()
+Added Component: Designator=U2_1()
+Added Component: Designator=U2_2()
+Added Component: Designator=U3_1()
+Added Component: Designator=U3_2()
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Main Connector-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Rx Line 1-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Rx Line 2-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Rx Line 3-5
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx_Rx_En 1-2
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx_Rx_En 2-2
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx_Rx_En 3-2
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx_Rx_S 1-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx_Rx_S 2-4
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx_Rx_S 3-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx Line 1-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx Line 2-1
+Added Pin To Net: NetName=NetMain Connector_1 Pin=Tx Line 3-5
+Added Net: Name=NetMain Connector_1
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Main Connector-2
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Rx Line 2-2
+Added Pin To Net: NetName=NetMain Connector_2 Pin=Tx Line 2-2
+Added Net: Name=NetMain Connector_2
+Added Pin To Net: NetName=NetMain Connector_3 Pin=Main Connector-3
+Added Pin To Net: NetName=NetMain Connector_3 Pin=Rx Line 2-3
+Added Pin To Net: NetName=NetMain Connector_3 Pin=Tx Line 2-3
+Added Net: Name=NetMain Connector_3
+Added Pin To Net: NetName=NetMain Connector_4 Pin=Main Connector-4
+Added Pin To Net: NetName=NetMain Connector_4 Pin=Rx Line 2-4
+Added Pin To Net: NetName=NetMain Connector_4 Pin=Tx Line 2-4
+Added Net: Name=NetMain Connector_4
+Added Pin To Net: NetName=NetMain Connector_5 Pin=Main Connector-5
+Added Net: Name=NetMain Connector_5
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Main Connector-6
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Rx Line 1-2
+Added Pin To Net: NetName=NetMain Connector_6 Pin=Tx Line 1-2
+Added Net: Name=NetMain Connector_6
+Added Pin To Net: NetName=NetMain Connector_7 Pin=Main Connector-7
+Added Pin To Net: NetName=NetMain Connector_7 Pin=Rx Line 1-3
+Added Pin To Net: NetName=NetMain Connector_7 Pin=Tx Line 1-3
+Added Net: Name=NetMain Connector_7
+Added Pin To Net: NetName=NetMain Connector_8 Pin=Main Connector-8
+Added Pin To Net: NetName=NetMain Connector_8 Pin=Rx Line 1-4
+Added Pin To Net: NetName=NetMain Connector_8 Pin=Tx Line 1-4
+Added Net: Name=NetMain Connector_8
+Added Pin To Net: NetName=NetMain Connector_9 Pin=Main Connector-9
+Added Pin To Net: NetName=NetMain Connector_9 Pin=Rx Line 1-8
+Added Pin To Net: NetName=NetMain Connector_9 Pin=Tx Line 1-6
+Added Net: Name=NetMain Connector_9
+Added Pin To Net: NetName=NetMain Connector_10 Pin=Main Connector-10
+Added Pin To Net: NetName=NetMain Connector_10 Pin=Rx Line 1-7
+Added Pin To Net: NetName=NetMain Connector_10 Pin=Tx Line 1-7
+Added Net: Name=NetMain Connector_10
+Added Pin To Net: NetName=NetMain Connector_11 Pin=Main Connector-11
+Added Pin To Net: NetName=NetMain Connector_11 Pin=Rx Line 1-6
+Added Pin To Net: NetName=NetMain Connector_11 Pin=Tx Line 1-8
+Added Net: Name=NetMain Connector_11
+Added Pin To Net: NetName=NetMain Connector_12 Pin=Main Connector-12
+Added Net: Name=NetMain Connector_12
+Added Pin To Net: NetName=NetMain Connector_13 Pin=Main Connector-13
+Added Net: Name=NetMain Connector_13
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Main Connector-14
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Tx_Rx_S 1-2
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Tx_Rx_S 2-3
+Added Pin To Net: NetName=NetMain Connector_14 Pin=Tx_Rx_S 3-3
+Added Net: Name=NetMain Connector_14
+Added Pin To Net: NetName=NetMain Connector_15 Pin=Main Connector-15
+Added Pin To Net: NetName=NetMain Connector_15 Pin=Tx_Rx_S 1-3
+Added Pin To Net: NetName=NetMain Connector_15 Pin=Tx_Rx_S 2-2
+Added Pin To Net: NetName=NetMain Connector_15 Pin=Tx_Rx_S 3-2
+Added Net: Name=NetMain Connector_15
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Main Connector-16
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Rx Line 1-5
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Rx Line 3-1
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx_Rx_En 1-4
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx_Rx_En 2-4
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx_Rx_En 3-4
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx_Rx_S 1-4
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx_Rx_S 3-4
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx Line 1-5
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx Line 2-5
+Added Pin To Net: NetName=NetMain Connector_16 Pin=Tx Line 3-1
+Added Net: Name=NetMain Connector_16
+Added Pin To Net: NetName=NetMain Connector_17 Pin=Main Connector-17
+Added Pin To Net: NetName=NetMain Connector_17 Pin=Rx Line 2-6
+Added Pin To Net: NetName=NetMain Connector_17 Pin=Tx Line 2-6
+Added Net: Name=NetMain Connector_17
+Added Pin To Net: NetName=NetMain Connector_18 Pin=Main Connector-18
+Added Pin To Net: NetName=NetMain Connector_18 Pin=Rx Line 2-7
+Added Pin To Net: NetName=NetMain Connector_18 Pin=Tx Line 2-7
+Added Net: Name=NetMain Connector_18
+Added Pin To Net: NetName=NetMain Connector_19 Pin=Main Connector-19
+Added Pin To Net: NetName=NetMain Connector_19 Pin=Rx Line 2-8
+Added Pin To Net: NetName=NetMain Connector_19 Pin=Tx Line 2-8
+Added Net: Name=NetMain Connector_19
+Added Pin To Net: NetName=NetMain Connector_20 Pin=Main Connector-20
+Added Net: Name=NetMain Connector_20
+Added Pin To Net: NetName=NetMain Connector_21 Pin=Main Connector-21
+Added Pin To Net: NetName=NetMain Connector_21 Pin=Rx Line 3-6
+Added Pin To Net: NetName=NetMain Connector_21 Pin=Tx Line 3-6
+Added Net: Name=NetMain Connector_21
+Added Pin To Net: NetName=NetMain Connector_22 Pin=Main Connector-22
+Added Pin To Net: NetName=NetMain Connector_22 Pin=Rx Line 3-7
+Added Pin To Net: NetName=NetMain Connector_22 Pin=Tx Line 3-7
+Added Net: Name=NetMain Connector_22
+Added Pin To Net: NetName=NetMain Connector_23 Pin=Main Connector-23
+Added Pin To Net: NetName=NetMain Connector_23 Pin=Rx Line 3-8
+Added Pin To Net: NetName=NetMain Connector_23 Pin=Tx Line 3-8
+Added Net: Name=NetMain Connector_23
+Added Pin To Net: NetName=NetMain Connector_24 Pin=Main Connector-24
+Added Pin To Net: NetName=NetMain Connector_24 Pin=Rx Line 3-4
+Added Pin To Net: NetName=NetMain Connector_24 Pin=Tx Line 3-2
+Added Net: Name=NetMain Connector_24
+Added Pin To Net: NetName=NetMain Connector_25 Pin=Main Connector-25
+Added Pin To Net: NetName=NetMain Connector_25 Pin=Rx Line 3-3
+Added Pin To Net: NetName=NetMain Connector_25 Pin=Tx Line 3-3
+Added Net: Name=NetMain Connector_25
+Added Pin To Net: NetName=NetMain Connector_26 Pin=Main Connector-26
+Added Pin To Net: NetName=NetMain Connector_26 Pin=Rx Line 3-2
+Added Pin To Net: NetName=NetMain Connector_26 Pin=Tx Line 3-4
+Added Net: Name=NetMain Connector_26
+Added Pin To Net: NetName=NetMain Connector_27 Pin=Main Connector-27
+Added Net: Name=NetMain Connector_27
+Added Pin To Net: NetName=NetMain Connector_28 Pin=Main Connector-28
+Added Net: Name=NetMain Connector_28
+Added Pin To Net: NetName=NetMain Connector_29 Pin=Main Connector-29
+Added Pin To Net: NetName=NetMain Connector_29 Pin=Tx_Rx_S 1-5
+Added Pin To Net: NetName=NetMain Connector_29 Pin=Tx_Rx_S 2-5
+Added Pin To Net: NetName=NetMain Connector_29 Pin=Tx_Rx_S 3-5
+Added Net: Name=NetMain Connector_29
+Added Pin To Net: NetName=NetMain Connector_30 Pin=Main Connector-30
+Added Pin To Net: NetName=NetMain Connector_30 Pin=Tx_Rx_S 1-6
+Added Pin To Net: NetName=NetMain Connector_30 Pin=Tx_Rx_S 2-6
+Added Pin To Net: NetName=NetMain Connector_30 Pin=Tx_Rx_S 3-6
+Added Net: Name=NetMain Connector_30
+Added Pin To Net: NetName=NetRx Line 2_5 Pin=Rx Line 2-5
+Added Pin To Net: NetName=NetRx Line 2_5 Pin=Tx_Rx_S 2-1
+Added Net: Name=NetRx Line 2_5
+Added Pin To Net: NetName=NetTx_Rx_En 1_1 Pin=Tx_Rx_En 1-1
+Added Net: Name=NetTx_Rx_En 1_1
+Added Pin To Net: NetName=NetTx_Rx_En 1_3 Pin=Tx_Rx_En 1-3
+Added Net: Name=NetTx_Rx_En 1_3
+Added Pin To Net: NetName=NetTx_Rx_En 2_1 Pin=Tx_Rx_En 2-1
+Added Net: Name=NetTx_Rx_En 2_1
+Added Pin To Net: NetName=NetTx_Rx_En 2_3 Pin=Tx_Rx_En 2-3
+Added Net: Name=NetTx_Rx_En 2_3
+Added Pin To Net: NetName=NetTx_Rx_En 3_1 Pin=Tx_Rx_En 3-1
+Added Net: Name=NetTx_Rx_En 3_1
+Added Pin To Net: NetName=NetTx_Rx_En 3_3 Pin=Tx_Rx_En 3-3
+Added Net: Name=NetTx_Rx_En 3_3
+Added Net: Name=NetU1_1_S0
+Added Net: Name=NetU1_1_S1
+Added Net: Name=NetU1_1_S2
+Added Net: Name=NetU1_IN9
+Added Net: Name=NetU1_IN10
+Added Net: Name=NetU1_IN11
+Added Net: Name=NetU1_IN12
+Added Net: Name=NetU1_IN13
+Added Net: Name=NetU1_IN14
+Added Net: Name=NetU1_IN15
+Added Net: Name=NetU1_IN16
+Added Net: Name=NetU2_IN9
+Added Net: Name=NetU2_IN10
+Added Net: Name=NetU2_IN11
+Added Net: Name=NetU2_IN12
+Added Net: Name=NetU2_IN13
+Added Net: Name=NetU2_IN14
+Added Net: Name=NetU2_IN15
+Added Net: Name=NetU2_IN16
+Added Net: Name=NetU3_IN9
+Added Net: Name=NetU3_IN10
+Added Net: Name=NetU3_IN11
+Added Net: Name=NetU3_IN12
+Added Net: Name=NetU3_IN13
+Added Net: Name=NetU3_IN14
+Added Net: Name=NetU3_IN15
+Added Net: Name=NetU3_IN16
+Added Net: Name=S[2..0]
+Added Class: Name=DC_Switch
+Added Room: Name=DC_Switch

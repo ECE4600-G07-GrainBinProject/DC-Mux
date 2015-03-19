@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: DC_Switch_2_5V.PcbDoc   3/18/2015  11:03:36 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DC_Switch_2_5V.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          149              41.86 Inch (1063.31 mm)
+T2        35mil (0.889mm)          Round          306              44.59 Inch (1132.68 mm)
+---------------------------------------------------------------------------
+Totals                                            455              86.46 Inch (2195.98 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
